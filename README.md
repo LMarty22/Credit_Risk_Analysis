@@ -6,36 +6,67 @@ The purpose of this analysis is to use machine learning in order to predict cred
 
 ## Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
-Naive Random Oversampling
+#### Naive Random Oversampling
 
-Insert 1 Accuracy
-Insert 1 Precision
+Accuracy Score
 
-SMOTE Oversampling
+![Accuracy Score](https://github.com/LMarty22/Credit_Risk_Analysis/blob/main/Images/1_NaiveRandomOverSampler_Accuracy.png)
 
-Insert 2 Accuracy
-Insert 2 Precision
+Precision Score
 
-Cluster Centroids Undersampling
+![Precision Score](https://github.com/LMarty22/Credit_Risk_Analysis/blob/main/Images/1_NaiveRandomOverSampler_Precision.png)
 
-Insert 3 Accuracy
-Insert 3 Precision
+#### SMOTE Oversampling
 
-SMOTEENN
+Accuracy Score
 
-Insert 4 Accuracy
-Insert 4 Precision
+!["Accuracy Score"](https://github.com/LMarty22/Credit_Risk_Analysis/blob/main/Images/2_Smote_Accuracy.png)
 
-BalancedRandomForestClassifier
+Precision Score
 
-Insert 5 Accuracy
-Insert 5 Precision
+![Precision Score](https://github.com/LMarty22/Credit_Risk_Analysis/blob/main/Images/2_Smote_Precision.png)
+
+#### Cluster Centroids Undersampling
+
+Accuracy Score
+
+![Accuracy Score](https://github.com/LMarty22/Credit_Risk_Analysis/blob/main/Images/3_ClusterCentroid_Accuracy.png)
+
+Precision Score
+
+![Precision Score](https://github.com/LMarty22/Credit_Risk_Analysis/blob/main/Images/3_ClusterCentroid_Precision.png)
+
+#### SMOTEENN
+
+Accuracy Score
+
+![Accuracy Score](https://github.com/LMarty22/Credit_Risk_Analysis/blob/main/Images/4_SMOTEENN_Accuracy.png)
+
+Precision Score
+
+![Precision Score](https://github.com/LMarty22/Credit_Risk_Analysis/blob/main/Images/4_SMOTEENN_Precision.png)
+
+#### BalancedRandomForestClassifier
+
+Accuracy Score
+
+![Accuracy Score](https://github.com/LMarty22/Credit_Risk_Analysis/blob/main/Images/5_Random_Forest_Accuracy.png)
+
+Precision Score
+
+![Precision Score](https://github.com/LMarty22/Credit_Risk_Analysis/blob/main/Images/5_Random_Forest_Precision.png)
 
 
-EasyEnsembleClassifier
+#### EasyEnsembleClassifier
 
-Insert 6 Accuracy
-Insert 6 Precision
+Accuracy Score
+
+![Accuracy Score](https://github.com/LMarty22/Credit_Risk_Analysis/blob/main/Images/6_Ensemble_Accuracy.png)
+
+Precision Score
+
+![Precision Score](https://github.com/LMarty22/Credit_Risk_Analysis/blob/main/Images/6_Ensemble_Presicion.png)
+
 
 
 ## Summary: Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
